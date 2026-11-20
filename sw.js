@@ -1,6 +1,6 @@
 // Network+ Study Bench service worker: offline app shell, offline photos, update and daily-study notifications.
-const VERSION = "netplus-v6";
-const APP_VER = "1.5";
+const VERSION = "netplus-v9";
+const APP_VER = "1.8";
 const SHELL = "netplus-shell-" + VERSION;
 const PHOTOS = "netplus-photos-v1";
 const META = "netplus-meta";
